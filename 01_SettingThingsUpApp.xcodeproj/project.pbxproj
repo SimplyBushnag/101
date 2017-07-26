@@ -193,6 +193,7 @@
 				TargetAttributes = {
 					957E35CF1F281A16000EE8DC = {
 						CreatedOnToolsVersion = 8.3.3;
+						DevelopmentTeam = RQSV46CUHY;
 						ProvisioningStyle = Automatic;
 					};
 					957E35E31F281A16000EE8DC = {
@@ -414,6 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RQSV46CUHY;
 				INFOPLIST_FILE = 01_SettingThingsUpApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "BananaCar.-1-SettingThingsUpApp";
@@ -426,6 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = RQSV46CUHY;
 				INFOPLIST_FILE = 01_SettingThingsUpApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "BananaCar.-1-SettingThingsUpApp";
